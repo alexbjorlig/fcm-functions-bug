@@ -1,0 +1,10 @@
+
+# Functions
+functions/**/*.js
+functions/**/*.js.map
+functions/node_modules
+**/node_modules
+functions/package-lock.gjson
+package-lock.json
+functions/eddystone-dev.json
+**/*.DS_Store
